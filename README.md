@@ -12,11 +12,10 @@ Using the ERD that was created, the Retirement Titles table was created holding 
 Employees eligible for the mentorship program:
 Using the ERD created previously, the Mentorship Eligibility table was created and it holds all of the current employees who were born between January 1st, 1965 and December 31st, 1965.
 - There are 1,549 employees eligible to participate in the mentorship program.
-- 294 Senior Engineers, 422 Senior Staffs and 395 Engineers are eligbible mentors.
+- 169 Senior Engineers, 569 Senior Staffs and 501 Engineers are eligbible mentors.
 
 # Summary
-90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
+90,398 roles will need to be filled when the anticpated retirement of all these employees occurs.
 There are 1,549 eligible mentors in the company.
-If we assume that they will all be willing to participate in the mentorship program, it will imply that each mentor would have an average of 58 mentees, so we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees.
-The following tables give us the number of retirement-ready employees and the number of eligible mentors per department. It shows that all departments are lacking mentors.
-Reviewing the criteria to qualify for the mentorship program would be needed by the company to prepare for the coming "silver tsunami".
+If we assume that they will all be willing to participate in the mentorship program, we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees.
+Reviewing the criteria to qualify for the mentorship program would be needed by the company to prepare for this upcoming retirement of these many employees.
